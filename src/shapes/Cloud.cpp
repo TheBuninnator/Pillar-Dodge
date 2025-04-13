@@ -1,6 +1,3 @@
-//
-// Created by Lisa Dion on 5/29/24.
-//
 
 #include "Cloud.h"
 

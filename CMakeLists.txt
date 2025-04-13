@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.14)
-project(M4OEP)
+project(Pillar-Dodge)
 set(CMAKE_CXX_STANDARD 17)
 
 ## ~ CONFIGURE DEPENDENCIES ~
