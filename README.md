@@ -8,6 +8,6 @@ choice the faster the pillars come at you. Using your mouse you have to dodge th
 When you hit a pillar the game ends and it tells you your final score in another screen. There you can press R to reset, and
 it brings you back to the start.
 
-This program uses screens, buttons, collision detection, mouse and keyboard inputs, and obviously the graphical aspect.
+This program uses screens, buttons, collision detection, mouse and keyboard inputs, and simple animations.
 
 Credit to Professor Dion who provided the outline of these files. The engine files are are mine beyond a brief outline
